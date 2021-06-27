@@ -1,4 +1,5 @@
 
+
 <!-- PROJECT LOGO -->
 <p>
   <h3 align="center">🎯DoIt💡</h3>
@@ -46,6 +47,19 @@ Tic-tac-toe is the game given by the incidence structure shown to the right, con
 [🎬YouTube](https://www.youtube.com/watch?v=H1Gf4L0O-8A)
 
 ### Srceenshots
+
+##### 📌Splash Screen
+![image 6](https://user-images.githubusercontent.com/55324828/123533949-e2e61c00-d732-11eb-81b7-36e0ee1f6147.png) 
+
+##### 📌Log in / Sing in
+![image 7](https://user-images.githubusercontent.com/55324828/123533951-e5487600-d732-11eb-9707-fc2589748ec3.png)
+
+##### 📌Todo list Screeen
+![image 8](https://user-images.githubusercontent.com/55324828/123533952-e7123980-d732-11eb-9ebf-24eea753bfb0.png)
+
+##### 📌Create / Edit
+![image 9](https://user-images.githubusercontent.com/55324828/123533953-e8436680-d732-11eb-9de1-1d82609dca03.png) ![image 10](https://user-images.githubusercontent.com/55324828/123533958-ef6a7480-d732-11eb-97e2-970bdd654655.png)
+
 
 
 <!-- CONTACT -->
