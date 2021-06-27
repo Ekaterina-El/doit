@@ -20,7 +20,14 @@
     <li>
       <a href="#usage">Usage</a>
       <ul>
+        <li><a href="#demo">Demo</a></li>
         <li><a href="#srceenshots">Screenshots</a></li>
+        <ul>
+          <li><a href="#splash-screen">Splash Screen</a></li>
+          <li><a href="#log-in--sing-in">Log in / Sing in</a></li>
+          <li><a href="#todo-list-screeen">Todo list Screeen</a></li>
+          <li><a href="https://github.com/Ekaterina-El/doit/blob/master/README.md#create--edit">Create / Edit</a></li>
+        </ul>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -44,6 +51,7 @@ Tic-tac-toe is the game given by the incidence structure shown to the right, con
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### DEMO
 [🎬YouTube](https://www.youtube.com/watch?v=H1Gf4L0O-8A)
 
 ### Srceenshots
