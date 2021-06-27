@@ -39,8 +39,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Tic-tac-toe is the game given by the incidence structure shown to the right, consisting of nine points, three horizontal lines, three vertical lines, and two diagonal lines, each line consisting of at least three points.
-
+What is a ToDo List? It's a list of tasks you need to complete, or things that you want to do. Most typically, they're organised in order of priority.
+Todo list helps prevent your most urgent things from slipping through the cracks—it prevents you from dropping any major balls.
 
 ### Built With
 
@@ -51,8 +51,8 @@ Tic-tac-toe is the game given by the incidence structure shown to the right, con
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### DEMO
-[🎬YouTube](https://www.youtube.com/watch?v=H1Gf4L0O-8A)
+### Demo
+[🎬YouTube](https://www.youtube.com/watch?v=Qo6dEDRufZg)
 
 ### Srceenshots
 
