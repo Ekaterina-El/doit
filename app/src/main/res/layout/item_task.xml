@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginVertical="8dp"
+    app:cardElevation="4dp"
+    android:backgroundTint="@color/white"
+    app:cardCornerRadius="8dp" >
+
+    <LinearLayout
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/taskCheckbox"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/mainColor"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:text="@string/example_text_task_item"
+            android:textColor="@color/mainColor"
+
+            />
+
+        <RelativeLayout
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_alignParentEnd="true"
+            android:layout_width="40dp"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:id="@+id/editTask"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_baseline_edit_18"/>
+            <ImageButton
+                android:id="@+id/deleteTask"
+                android:layout_width="18dp"
+                android:layout_centerVertical="true"
+                android:layout_alignParentEnd="true"
+                android:layout_height="18dp"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_baseline_delete_outline_18"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

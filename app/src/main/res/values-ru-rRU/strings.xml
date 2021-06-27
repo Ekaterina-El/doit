@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="example_text_task_item">Testing task</string>
+    <string name="todo_list">ToDo List</string>
+    <string name="hint_e_mail">Почта</string>
+    <string name="hint_password">Пароль</string>
+    <string name="login_sing_in">Войти</string>
+    <string name="link_to_reg">У меня нет аккаунта</string>
+    <string name="hint_repeat_password">Повтор пароля</string>
+    <string name="reg_sing_up">Зарегистрироваться</string>
+    <string name="lint_to_login">У меня есть аккаунт</string>
+    <string name="hint_search">Поиск</string>
+    <string name="hint_new_task">Новая задача</string>
+    <string name="new_task_save">Сохранить</string>
+    <string name="prealoder_text">Загрузка</string>
+
+    <string name="todo_list_empty">Ваш список дел пуст</string>
+    <string name="todo_list_empty_search">По вашему запросу ничего не найдено.</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DoIt</string>
+    <string name="example_text_task_item">Testing task</string>
+    <string name="todo_list">ToDo List</string>
+    <string name="hint_e_mail">E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="login_sing_in">Sing in</string>
+    <string name="link_to_reg">I don\'t have an account</string>
+    <string name="hint_repeat_password">Repeat password</string>
+    <string name="reg_sing_up">Sing up</string>
+    <string name="lint_to_login">I have an account</string>
+    <string name="hint_search">Search</string>
+    <string name="hint_new_task">New task</string>
+    <string name="new_task_save">Save</string>
+    <string name="prealoder_text">Loading</string>
+
+    <string name="todo_list_empty">Your to-do list is empty</string>
+    <string name="todo_list_empty_search">No results were found for your search.</string>
+</resources>
